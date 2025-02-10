@@ -126,7 +126,7 @@
   right: var(--main-padding);
 }
 
-main { 
+main {
   padding: var(--section-padding);
   display: flex;
   gap: var(--main-gap);
@@ -258,7 +258,7 @@ main {
   }
 
   .picture__title {
-  margin-block-end: 20px;
+    margin-block-end: 20px;
   }
 
   .gallery__pic:nth-child(1) {
