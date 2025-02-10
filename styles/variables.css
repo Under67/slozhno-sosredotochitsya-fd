@@ -13,17 +13,11 @@
   --accent-color: #ff0070;
   --additional-color: #ff0070;
   --hover-color: rgb(255 0 112 / 0.4);
-  --main-padding: 10px 10px 0 10px;
+  --main-padding: 10px;
   --title-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
-  --header-margin-xs: 54px;
-  --header-margin-s: 56px;
-  --header-margin-m: 64px;
-  --header-margin-l: 67px;
-  --section-margin-xs: 40px;
-  --section-margin-s: 50px;
-  --title-margin-s: 20px;
+  --block-size: 668px;
   --footer-gap: 10px;
-  --footer-padding: 279px 3px 275px 4px;
-  --footer-margin-xs: 10px;
   --section-gap: 20px;
+  --main-gap: 50px;
+  --section-padding:40px 10px;
 }
