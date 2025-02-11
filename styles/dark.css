@@ -9,7 +9,6 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
-  --main-font: 'IBM Plex Mono', sans-serif;
   --bg-color: #000028;
   --bg-image: url(../images/cover-image-dark.png);
   --text-color: #f1b2ce;
@@ -18,4 +17,9 @@
   --accent-color: #ff0070;
   --hover-color: rgb(255 0 112 / 0.4);
   --additional-color: #ff0070;
+}
+
+.theme-dark .signature {
+  /* Вам также нужно будет написать ряд подобных селекторов */
+  display: initial;
 }
