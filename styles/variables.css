@@ -4,7 +4,7 @@
 */
 
 :root {
-  --main-font: 'IBM Plex Mono', sans-serif;
+  --main-font: 'IBM Plex Mono',monospace, sans-serif;
   --bg-color: #000028;
   --bg-image: url(../images/cover-image-dark.png);
   --text-color: #f1b2ce;
@@ -19,5 +19,5 @@
   --footer-gap: 10px;
   --section-gap: 20px;
   --main-gap: 50px;
-  --section-padding: 40px 10px;
+  --section-padding:40px 10px;
 }
