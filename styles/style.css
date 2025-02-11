@@ -323,6 +323,6 @@ main {
 
   .hero__title {
     grid-column: 1 / 4;
-    width: 300px;
+    max-inline-size: 300px;
   }
 }
