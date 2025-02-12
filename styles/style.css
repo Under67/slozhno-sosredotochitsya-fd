@@ -77,7 +77,7 @@
 }
 
 .header__theme-menu-button:hover {
-  outline: 1px solid currentColor;
+  outline: 1px solid var(--hover-color);
 }
 
 .header__theme-menu-button:focus-visible {
